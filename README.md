@@ -2,7 +2,7 @@
 I just want to say "hello world" with:
 - Container
 - PHP
-- Java Script
+- JavaScript
 
 <!--
 **dwialim/dwialim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
